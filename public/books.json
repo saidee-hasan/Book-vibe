@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/The_Great_Gatsby-FScott_Fitzerland-1699c-279872.jpg",
+      "review": "The Great Gatsby is a novel written by American author F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922. The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion and obsession with the beautiful former debutante Daisy Buchanan. Considered to be Fitzgerald's magnum opus, The Great Gatsby explores themes of decadence, idealism, resistance to change, social upheaval, and excess, creating a portrait of the Jazz Age or the Roaring Twenties that has been described as a cautionary tale regarding the American Dream. The Great Gatsby received critical acclaim and is widely regarded as one of the greatest American novels of the 20th century. It is also one of the most frequently assigned books in school curricula.",
+      "totalPages": 180,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Romance", "Drama", "Classic"],
+      "publisher": "Scribner",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 2,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/cc2074a880b4_91012.gif",
+      "review": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It was immediately successful, winning the Pulitzer Prize, and has become a classic of modern American literature. The plot and characters are loosely based on Lee's observations of her family, her neighbors, and an event that occurred near her hometown of Monroeville, Alabama, in 1936, when she was ten. The story is set in the fictional town of Maycomb, Alabama, and is narrated by six-year-old Jean Louise \"Scout\" Finch. The novel is renowned for its warmth and humor, despite dealing with serious issues such as racial injustice and the loss of innocence. The moral integrity of its protagonist, Atticus Finch, has been cited as a character trait that has inspired many readers. To Kill a Mockingbird is widely read in schools for its lessons on empathy, morality, and the importance of standing up for what is right.",
+      "totalPages": 281,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["Coming of Age", "Social Issues", "Classic"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 3,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/1984_Nineteen_Eighty_Four-George_Orwell-67fdf-85124.jpg",
+      "review": "1984 is a dystopian novel by George Orwell published in 1949. The story takes place in a nightmarish totalitarian state where the government, led by the Party and its enigmatic leader Big Brother, exercises absolute control over every aspect of its citizens' lives. The protagonist, Winston Smith, works for the Party rewriting historical records to fit its ever-changing narrative of truth. As Winston begins to question the Party's propaganda and rebel against its oppressive regime, he embarks on a dangerous journey of self-discovery and defiance. 1984 explores themes of surveillance, censorship, propaganda, and the erosion of individual freedom in the face of authoritarian power. Orwell's chilling vision of a dystopian society has had a profound impact on popular culture and continues to resonate with readers around the world.",
+      "totalPages": 328,
+      "rating": 4.6,
+      "category": "Science Fiction",
+      "tags": ["Dystopian", "Political", "Classic"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i0.wp.com/www.raptisrarebooks.com/images/111590/the-catcher-in-the-rye-jd-salinger-first-edition-1951-rare.jpg?fit=850%2C680&ssl=1",
+      "review": "The Catcher in the Rye is a novel by J. D. Salinger, first published in 1951. The story is narrated by Holden Caulfield, a teenager who has been expelled from prep school and is wandering around New York City. Holden is deeply troubled by the phoniness and hypocrisy he perceives in the adult world, and he struggles to find his place in society. Throughout the novel, Holden grapples with issues of identity, authenticity, and alienation. The Catcher in the Rye is celebrated for its honest portrayal of adolescence and its exploration of universal themes such as loss, isolation, and the search for meaning. Despite being published over half a century ago, the novel continues to resonate with readers of all ages and backgrounds.",
+      "totalPages": 224,
+      "rating": 4.4,
+      "category": "Fiction",
+      "tags": ["Coming of Age", "Teen", "Classic"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 5,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://m.media-amazon.com/images/I/415wkm7JsrL._SX342_SY445_.jpg",
+      "review": "Pride and Prejudice is a romantic novel by Jane Austen, first published in 1813. The story follows the emotional development of the protagonist, Elizabeth Bennet, who learns the error of making hasty judgments and comes to appreciate the difference between superficial and true love.",
+      "totalPages": 279,
+      "rating": 4.6,
+      "category": "Romance",
+      "tags": ["Classic", "Regency", "Social Commentary"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    },
+    {
+        "bookId": 6,
+        "bookName": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Crime_and_Punishment-Fyodor_Dostoyevsky-d534b-254148.jpg",
+        "review": "Crime and Punishment is a novel by the Russian author Fyodor Dostoevsky, first published in 1866. It is considered one of the greatest psychological novels ever written and a profound exploration of morality, guilt, and redemption. The story follows Rodion Raskolnikov, a young ex-student in St. Petersburg who formulates and executes a plan to kill a pawnbroker for her money. As Raskolnikov grapples with the consequences of his crime and the psychological torment it brings, he is drawn into a web of guilt, paranoia, and moral anguish. Crime and Punishment is a masterpiece of Russian literature and a timeless examination of the human condition.",
+        "totalPages": 430,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": ["Psychological", "Thriller", "Classic"],
+        "publisher": "The Russian Messenger",
+        "yearOfPublishing": 1866
+    }
+
+]
