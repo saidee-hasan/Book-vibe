@@ -14,7 +14,7 @@ const Book = ({item}) => {
   </figure>
 
   
-  <div className="card-body h-52 bg-white ">
+  <div className="card-body h-60 bg-white ">
   <div className='font-work-sans flex items-center text-[#23BE0A] font-medium '>
    
   {
