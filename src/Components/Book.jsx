@@ -6,22 +6,22 @@ const Book = ({item}) => {
 
     console.log(tags);
     return (
-        <div>
+        <div className=" bg-white ">
             <Link to={`/books-details/${bookId}`}>
             <div className="card flex flex-col  shadow-xl">
-  <figure className="px-10 pt-10 bg-[#F3F3F3]">
-    <img className=' rounded-2xl  w-[280px] h-[300px]' src={image} />
+  <figure className="px-10 pt-10 ">
+    <img className=' rounded-2xl  w-[280px] h-52' src={image} />
   </figure>
 
   
-  <div className="card-body ">
+  <div className="card-body h-52 bg-white ">
   <div className='font-work-sans flex items-center text-[#23BE0A] font-medium '>
    
   {
-    tags.map((tag, index) => <p key={index} className="flex justify-between bg-[#23be0a0d]  px-2 text-center rounded-[36px] items-center" tag={tag}>{tag}</p>)
+    tags.map((tag, index) => <p key={index} className="flex justify-between  px-2 text-center rounded-[36px] items-center" tag={tag}>{tag}</p>)
   }
   </div>
-    <h2 className="font-playfair font-bold text-[#131313] text-2xl">{bookName}</h2>
+    <h2 className="font-playfair  font-bold text-[#131313] text-2xl">{bookName}</h2>
     <p className='font-work-sans text-[#131313cc]'>By: {author}</p>
     <div className=" flex-grow">
       <div className="flex justify-between items-center">
