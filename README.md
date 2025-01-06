@@ -23,11 +23,11 @@ Book Vibe offers a platform where users can explore a diverse collection of book
 
 ## Contact
 
-For questions, suggestions, or feedback, contact us at [contact@business.com](mailto:contact@business.com).
+For questions, suggestions, or feedback, contact us at [contact@business.com](mailto:mdsaideehasan@gmail.com).
 
 ## Live Site URL
 
-Visit the live site: [Book Vibe](https://bookvibe-by-anas.netlify.app/)
+Visit the live site: [Book Vibe](https://book-buy1.netlify.app/)
 
 ## Installation Instructions
 
